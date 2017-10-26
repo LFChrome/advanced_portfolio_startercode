@@ -1,11 +1,12 @@
-/* Nav Bar CSS */
-#profile {
-    width: 256px;
-    height: 256px;
-    border-radius: 128px;
-    border: solid 5px;
-    text-align: center; 
+body {
+    text-align: center;
 }
+
+
+/* Nav Bar CSS */
+
+
+
 
 /* Header CSS */
 
