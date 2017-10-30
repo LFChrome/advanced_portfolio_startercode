@@ -1,7 +1,10 @@
 body {
     text-align: center;
 }
-
+div h1,
+div h3 {
+    font-style: italic;
+}
 
 /* Nav Bar CSS */
 
