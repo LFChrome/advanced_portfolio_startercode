@@ -1,11 +1,29 @@
 body {
+    font-family: 'Bangers';
     text-align: center;
-}
-div h1,
-div h3 {
-    font-style: italic;
+    background-color: 	#316787;
 }
 
+div h1,
+div h3 {
+    font-style: bold;
+}
+
+a {
+    color: #a5bd68;
+}
+
+a:hover {
+    color: #c7ddad;
+}
+
+div p {
+    font-size: 16px;
+}
+
+#contact-list {
+    list-style-type: none;
+}
 /* Nav Bar CSS */
 
 
@@ -34,3 +52,4 @@ div h3 {
 /* Button CSS */
 
 
+/* http://www.color-hex.com/color-palette/13733 */
