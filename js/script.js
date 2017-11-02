@@ -15,7 +15,9 @@
 //******************TEST EARLY AND OFTEN USING console.log() ******************
 //****************** SERIOUSLY TEST USING console.log()!!! ******************
 $(document).ready(function() {
-   $('#block').css('height', $('.navbar').height() + 10); 
+    $('body').hover(function(){
+        $('body').css('padding-top', $('.navbar').height() + 15); 
+    });
 });
 // Create your potrfolio object representation below
 
