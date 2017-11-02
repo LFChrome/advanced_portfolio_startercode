@@ -14,10 +14,9 @@
 // *************************** YOUR CODE BELOW *******************************
 //******************TEST EARLY AND OFTEN USING console.log() ******************
 //****************** SERIOUSLY TEST USING console.log()!!! ******************
-$(document).ready(
-var height = $('.navbar').height();
-$('#block').css('height', height);
-);
+$(document).ready(function() {
+   $('#block').css('height', $('.navbar').height() + 10); 
+});
 // Create your potrfolio object representation below
 
 
