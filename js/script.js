@@ -19,7 +19,7 @@
 // Use Jquery to update your HTML using your object. Don't forget the Document Ready function. 
 // Add your click handler below to update your like counters when the like buttons are clicked. 
 $(document).ready(function() {
-    var aboutText = "Hello, my name is Wei, I am currently a senior at Phillip and Sala Burton High School. I am passionate about STEM courses and software engineering is one of my strongest pathways. In sophomore year I enrolled in ScriptED foundation course and now I'm enrolled in the Studio Course. During my free time I play board games, videogames and trading card games. <br> The courses I have taken are AP Chemistry and Algebra II + Pre-calculus compression class. Additionally I am taking AP Calculus, Computer Science Principles, Government and Politics, and Literature."
+    var aboutText = "Hello, my name is Wei, I am currently a senior at Phillip and Sala Burton High School. I am passionate about STEM courses and software engineering is one of my strongest pathways. In sophomore year I enrolled in ScriptED (now CodeNation) foundation course and now I'm enrolled in the Studio Course. During my free time I play board games, videogames and trading card games. <br> The courses I have taken are AP Chemistry and Algebra II + Pre-calculus compression class. Additionally I am taking AP Calculus, Computer Science Principles, Government and Politics, and Literature. My motto is to question everything you learn, investigate and research the topic and come to your conclusion."
     $('#aboutSection').html(aboutText);
     
     
