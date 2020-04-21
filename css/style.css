@@ -1,11 +1,46 @@
-/* Nav Bar CSS */
-#profile {
-    width: 256px;
-    height: 256px;
-    border-radius: 128px;
-    border: solid 5px;
-    text-align: center; 
+body {
+    padding-top: 60px;
+    font-family: 'Bangers';
+    text-align: center;
+    background-color: 	#316787;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    color: gainsboro;
 }
+
+div h1,
+div h3 {
+    font-style: normal;
+}
+
+a {
+    color: #a5bd68;
+}
+
+a:hover {
+    color: #c7ddad;
+}
+
+div p {
+    font-size: 16px;
+}
+
+.navbar {
+    background-color: #4e87a9;
+    border-bottom: solid #d6a220;
+}
+
+.col-md-12 {
+    margin: 10px;    
+}
+
+#contact-list {
+    list-style-type: none;
+}
+
+/* Nav Bar CSS */
+
+
+
 
 /* Header CSS */
 
@@ -30,3 +65,4 @@
 /* Button CSS */
 
 
+/* http://www.color-hex.com/color-palette/13733 */
